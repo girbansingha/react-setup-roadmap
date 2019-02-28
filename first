@@ -1,0 +1,12 @@
+1.install node in your system.
+	a.sudo apt-get install node.
+2.install npm in your system.
+	a.sudo apt-get install npm.
+
+1. install react in your system.
+commands:
+    a.npm install -g create-react-app (-g i.e globally).
+2. Create a folder, go inside the folder open in terminal.create a react project by installing react app. 
+
+commands:
+    a.npm install create-react-app project_name.
